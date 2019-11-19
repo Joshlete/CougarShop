@@ -1,0 +1,36 @@
+.top {
+  background: #F5F7F6 !important;
+}
+.aligncenter {
+  text-align: center;
+}
+
+b {
+  margin-left: 30px;
+}
+c {
+  margin-right: 30px;
+  margin-left: 5px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  ;
+}
+
+.centerimage {
+  width: 100%;
+}
+
+.gray-background {
+  background: #292929;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.navigation {
+  color: #F5F7F6;
+}
